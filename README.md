@@ -1,6 +1,4 @@
 - 👋 Hi, I’m mag
-- 👀 I’m the founder of Blonk Technologies
-- 🌱 I’m currently learning Unreal Engine Blueprints
 - 📫 How to reach me mag@blonk.me
 
 <!---
