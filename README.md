@@ -1,5 +1,5 @@
 - 👋 Hi, I’m mag
-- 📫 How to reach me mag@blonk.me
+- 📫 How to reach me mag@ueditor.xyz
 
 <!---
 magxut/magxut is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
