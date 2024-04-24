@@ -14,18 +14,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Magnus from the United Kingdom 🇬🇧<br><br>- 📚 I'm currently learning C++ and Graphics Programming</p>
-
-###
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
