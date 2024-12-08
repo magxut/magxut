@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">🛠 What I use daily</h3>
+<h3 align="left">🛠 What I use</h3>
 
 ###
 
